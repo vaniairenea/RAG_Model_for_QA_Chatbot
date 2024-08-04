@@ -60,7 +60,7 @@ We welcome contributions to enhance the RAG QA Chatbot! To contribute:
 For any questions, feedback, or inquiries, please reach out to vaniairenea@gmail.com.
 
 ### 🔗 Connect with Me
-Feel free to connect with me on LinkedIn for updates and professional networking.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/vaniairenea) for updates and professional networking.
 
 ### 📝 View This Notebook in Google Colab
 You can view and interact with this notebook directly in Google Colab by clicking the link below:
